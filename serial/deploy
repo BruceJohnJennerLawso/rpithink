@@ -1,0 +1,5 @@
+#!/bin/bash
+
+cp ./loadmonitor.ino $HOME/sketchbook/loadmonitor
+
+exit 0

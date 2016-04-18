@@ -11,5 +11,5 @@ def sendMessage(message, connection):
 if(__name__ == "__main__"):
 	script, message = argv
 	connection = serial.Serial('/dev/ttyACM0', 9600)
-	sendMessage(message, connection)
+	sendMessage("50.0\n", connection)
 
