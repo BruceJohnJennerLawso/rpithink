@@ -39,7 +39,7 @@ if(__name__ == "__main__"):
 		if(dt >= 5000000):
 			currentLoad = getCPULoad()
 			strOutput = "%.3f\n" % round(currentLoad, 3)
-			print strOutput, len(strOutput)
+			##print strOutput, len(strOutput)
 			sendMessage(strOutput, connection)
 			##print "sending message '%f'" % currentLoad
 			## looks good to me

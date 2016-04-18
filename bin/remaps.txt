@@ -1,0 +1,4 @@
+keycode  11 = 2 at 2 at dead_diaeresis onehalf dead_diaeresis
+keycode  12 = 3 numbersign 3 numbersign threesuperior onethird threesuperior
+keycode  48 = apostrophe quotedbl apostrophe quotedbl dead_acute dead_caron dead_acute
+keycode  51 = backslash bar backslash bar dead_tilde dead_breve dead_tilde
